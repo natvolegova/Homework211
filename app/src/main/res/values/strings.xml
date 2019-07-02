@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework211</string>
+    <string name="hint_count">Введите сумму</string>
+    <string name="hint_info">Информация об оплате</string>
+    <string name="buttin_value">Оплатить</string>
+    <string name="label_activity">Оплата по счету</string>
+    <string name="chk_bank">С банковской карты</string>
+    <string name="chk_mobile">С мобильного телефона</string>
+    <string name="chk_cash">Наличными по адресу</string>
+</resources>
